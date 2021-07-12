@@ -34,6 +34,7 @@ public class BinarySearchProblem2 {
 		}
 		
 		if(find == true) {
+
 			System.out.println("찾는 숫자의 위치는 " + (mid+1) + "번째 입니다.");
 			
 		}else {
